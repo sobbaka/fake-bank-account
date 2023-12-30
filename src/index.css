@@ -1,0 +1,5 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.custom__btn {
+  min-width: 195px;
+}
